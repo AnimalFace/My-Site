@@ -49,12 +49,18 @@ h3 {
   position: absolute;
   right: 300px;
   top: 50px;
+  width: 15%;
 }
 
 .bottom-cloud {
   position: absolute;
   left: 250px;
   bottom: 300px;
+  width: 15%;
+}
+
+.mountain {
+  width: 60%;
 }
 
 .intro {
@@ -91,7 +97,7 @@ h3 {
 .copyright {
   color: #fcf7bb;
   font-size: .75rem;
-  padding: 20px 0; 
+  padding: 20px 0;
 }
 
 .paper {
